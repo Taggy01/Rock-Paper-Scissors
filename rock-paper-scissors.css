@@ -9,18 +9,18 @@ body {
 }
 
 img {
-    height: 80px;
-    width: 80px;
+    height: 70px;
+    width: 70px;
 }
 
 button {
-    height: 100px;
-    width: 100px;
+    height: 90px;
+    width: 90px;
     align-items: center;
     justify-content: center;
     border-radius: 50px;
     background-color: rgb(56, 56, 56);
-    margin: 20px 10px;
+    margin: 20px 5px;
     cursor: pointer;
     transition: all 0.5s ease;
     -webkit-tap-highlight-color: transparent;
