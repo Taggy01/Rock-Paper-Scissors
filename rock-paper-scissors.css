@@ -53,5 +53,5 @@ button:active {
 .body {
     display: flex;
     flex-direction: row;
-    gap: 30px;
+    gap: 10px;
 }
